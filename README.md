@@ -23,7 +23,7 @@ This is my pet-project which I'm doing at my free time.
 - **Lottie Animation**
 - **Feature flags**
 
-
+## Screenshots
 <table>
   <tr>
     <td>Debug</td>
@@ -32,5 +32,34 @@ This is my pet-project which I'm doing at my free time.
   <tr>
     <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/2.png"></td>
     <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/13.png"></td>
+  </tr>
+  <tr>
+    <td>Ligt mode</td>
+    <td>Dark mode</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/2.png"></td>
+    <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/11.png"></td>
+  </tr>
+    <tr>
+    <td>Game screen</td>
+    <td>Category screen</td>
+    <td>History screen</td>    
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/7.png"></td>
+    <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/10.png"></td>
+    <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/4.png"></td>
+  </tr>
+    </tr>
+    <tr>
+    <td>Hint</td>
+    <td>Feature flag menu</td>
+    <td>Screen is disabled by feature flag</td>    
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/8.png"></td>
+    <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/6.png"></td>
+    <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/5.png"></td>
   </tr>
  </table>
