@@ -1,0 +1,28 @@
+{
+  "category": "Логические операторы",
+  "question" : [
+    {
+        "id": 1,
+        "textQuestion": "Сколько стандартных логических операторов поддерживает Swift?",
+        "answers": [
+          {
+            "textAnswer": "4"
+          },
+          {
+            "textAnswer": "6"
+          },
+          {
+            "textAnswer": "2"
+          },
+          {
+            "correctAnswer" : true,
+            "textAnswer": "3"
+          }
+        ],
+        "hint": "Логические операторы изменяют или комбинируют логические значения типа Boolean - true или false"
+    }
+  ]
+}
+
+
+

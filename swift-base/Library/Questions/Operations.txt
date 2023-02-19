@@ -1,0 +1,50 @@
+{
+  "category": {
+        "name" : "Логические операторы",
+        "key" : "Operations",
+        "countOfQuestions" : 2,
+        "isEnable" : true
+  },
+  "question" : [
+    {
+        "id": 1001,
+        "textQuestion": "Сколько стандартных логических операторов поддерживает Swift?",
+        "answers": [
+          {
+            "textAnswer": "4"
+          },
+          {
+            "textAnswer": "6"
+          },
+          {
+            "textAnswer": "2"
+          },
+          {
+            "correctAnswer" : true,
+            "textAnswer": "3"
+          }
+        ],
+        "hint": "Логические операторы изменяют или комбинируют логические значения типа Boolean - true или false"
+    },
+      {
+        "id": 1002,
+        "textQuestion": "Какой логический оператор инвертирует булево значение - true меняется на false, а  false становится true?",
+        "answers": [
+          {
+            "textAnswer": "="
+          },
+          {
+            "textAnswer": "&&"
+          },
+          {
+            "correctAnswer" : true,
+            "textAnswer": "!"
+          },
+          {
+            "textAnswer": "||"
+          }
+        ],
+        "hint": "! - Оператор логического НЕ инвертирует булево значение - true меняется на false, а false становится true"
+    }
+  ]
+}

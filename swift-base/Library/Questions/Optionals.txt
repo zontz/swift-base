@@ -1,0 +1,9 @@
+{
+  "category": {
+        "name" : "Опционалы",
+        "key" : "Optionals",
+        "countOfQuestions" : 0,
+        "isEnable" : false
+  }
+}
+

@@ -1,0 +1,50 @@
+{
+  "category": {
+        "name" : "Множества",
+        "countOfQuestions" : 2,
+        "key" : "Set",
+        "isEnable" : true
+  },
+  "question" : [
+    {
+        "id": 1201,
+        "textQuestion": "Каким должен быть тип значения, чтобы он мог храниться в множестве?",
+        "answers": [
+          {
+            "correctAnswer" : true,
+            "textAnswer": "Хешируемым"
+          },
+          {
+            "textAnswer": "Булевым"
+          },
+          {
+            "textAnswer": "Вычисляемым"
+          },
+          {
+            "textAnswer": "Числовым"
+          }
+        ],
+        "hint": "Хешируемым. Тип значений должен быть хешируемым для того, чтобы он мог храниться в множестве, таким образом тип должен предстовлять возможность для вычисления собственного значения хеша."
+    },
+    {
+        "id": 1202,
+        "textQuestion": "Как в Swift записывается тип множества?",
+        "answers": [
+          {
+            "textAnswer": "(Set<ElementType>)"
+          },
+          {
+            "correctAnswer" : true,
+            "textAnswer": "Set<ElementType>"
+          },
+          {
+            "textAnswer": "Set(ElementType)"
+          },
+          {
+            "textAnswer": "Set[ElementType]"
+          }
+        ],
+        "hint": "Set<ElementType>. Тип множества в Swift записывается как Set<ElementType>, ElementType является типом, который хранится в множестве"
+    }
+  ]
+}
