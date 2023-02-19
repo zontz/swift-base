@@ -23,7 +23,7 @@ This is my pet-project which I'm doing at my free time.
 - **Lottie Animation**
 - **Feature flags**
 
-## Screenshots
+## Build
 <table>
   <tr>
     <td>Debug</td>
@@ -33,15 +33,25 @@ This is my pet-project which I'm doing at my free time.
     <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/2.png"></td>
     <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/13.png"></td>
   </tr>
+</table>
+
+## Theme
+
+<table>
   <tr>
-    <td>Ligt mode</td>
+    <td>Light mode</td>
     <td>Dark mode</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/2.png"></td>
     <td><img src="https://raw.githubusercontent.com/zontz/swift-base/main/screenshots/11.png"></td>
   </tr>
-    <tr>
+</table>
+
+## Screens
+
+<table>
+  <tr>
     <td>Game screen</td>
     <td>Category screen</td>
     <td>History screen</td>    
